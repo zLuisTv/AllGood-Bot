@@ -14,6 +14,9 @@
 ---
 # Info
 
+Quesito es un bot de discord codificado en JavaScript con Discord.js.
+¡No dudes en agregar una estrella ⭐ al repositorio para promover el proyecto!
+
 ## Prefix: q! ( Customizable )
 
 > Un bot multipropósito para facilitar y divertir el uso de Discord
@@ -35,3 +38,9 @@
 ---
 
 > Cada semana se agregan nuevos comandos!
+
+## Enlaces
+
+* [Discord](https://discord.gg/m3vY2tDC7V)
+* [GitHub](https://github.com/zLuisOne/Quesito)
+* [Twitch Owner](https://www.twitch.tv/luisone)

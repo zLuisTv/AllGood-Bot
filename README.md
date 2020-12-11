@@ -5,8 +5,8 @@
 <h3 align="center">Quesito Bot</h3>
 
 ---
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/static/v1?label=Language%20&message=JavaScript&plastic&color=4E89D8&logo=discord"></a>
-<a href="https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Quesito%235063&plastic&color=4E89D8&logo=discord"></a>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4E89D8)
+<a href="https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Quesito%235063&white&color=4E89D8&logo=discord"></a>
 <a href="https://github.com/zLuisOne"><img src="https://img.shields.io/static/v1?label=Owner%20&message=Lui%239680&plastic&color=4E89D8&logo=discord"></a>
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4E89D8)
 

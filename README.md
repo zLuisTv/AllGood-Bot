@@ -37,7 +37,8 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 ---
 
-> Cada semana se agregan nuevos comandos!
+> Proximamente:
+Nuevo Sistema de Música!
 
 ## Enlaces
 

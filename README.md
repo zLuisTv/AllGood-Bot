@@ -44,4 +44,4 @@ Nuevo Sistema de Música!
 
 * [Discord](https://discord.gg/m3vY2tDC7V)
 * [GitHub](https://github.com/zLuisOne/Quesito)
-* [Twitch Owner](https://www.twitch.tv/luisone)
+* [Twitch Owner](https://www.twitch.tv/zluisone)

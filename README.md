@@ -23,22 +23,23 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 ### Categorías:
 
-* 💼 **Moderación**: `set prefix`, `ban`, `unban`, `kick`, `mute` , `unmute`, `purge`, `setnickname`, `slowmode`, `addrole` y `takerole`.
+* 💼 **Moderación**: `prefix`, `ban`, `unban`, `kick`, `mute` , `unmute`, `purge`, `setnickname`, `slowmode`, `addrole` y `takerole`.
 
 * ⚙ **Utilidad**: `userinfo`, `serverinfo`, `roleinfo`, `servericon`, `encuesta`. `sugerencia`, `clima`, `covid`, `ping`, `miembros`, `soporte`, `bug`, `botsuggest` y `vote`.
 
-* ✨ **Diversión**: `anime`, `skin-mc`, `howgay`, `ascii`, `avatar`, `waifu`, `meme`, `wikipedia`, `hack`, `ytsearch` y `instagram`.
+* ✨ **Diversión**: `anime`, `howgay`, `say`, `8ball`, `ascii`, `meme`, `wikipedia`, `hack`, `ytsearch` y `instagram`.
 
-* 🖼 **Imagenes**: `bird`, `cat`, `dog` y `fox`
+* 🖼 **Imagenes**: `avatar` ,`bird`, `cat`, `dog`, `fox` , `waifu`, `meme` y `skin-mc` 
 
-* 😇 **Expresiones**: `hi`, `kiss`, `run`, `slap`, `baka`, `kill`, `boo`, `punch`, `confused`, `disgust`, `dab` y `cry`.
+* 😇 **Reacción**: `hi`, `kiss`, `run`, `slap`, `baka`, `kill`, `boo`, `punch`, `confused`, `disgust`, `dab` y `cry`.
 
 * 🎶 **Música**: `play`, `nowplaying`, `playlist`, `search` , `queue`, `pause`, `resume`, `skip`, `skipto`, `stop`, `remove`, `pruning`, `lyrics`, `loop` y `shuffle`.
 
----
+* 👾 **Sistema de Xp:** `rank` (pronto más comandos)...
 
-> Proximamente:
-Nuevo Sistema de Música!
+* 💸 **Sistema de Economía:** `bal`, `work`, `daily` (pronto más comandos)...
+
+---
 
 ## Enlaces
 

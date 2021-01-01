@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://i.imgur.com/XnmDNMg.png?size=256">
+  <img width="256" height="256" src="https://i.imgur.com/xTBB0jV.png">
 </p>
   
 <h3 align="center">Quesito Bot</h3>

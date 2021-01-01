@@ -33,7 +33,7 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * 😇 **Reacción**: `hi`, `kiss`, `run`, `slap`, `baka`, `kill`, `boo`, `punch`, `confused`, `disgust`, `dab` y `cry`.
 
-* 🎶 **Música**: `play`, `nowplaying`, `playlist`, `search` , `queue`, `pause`, `resume`, `skip`, `skipto`, `stop`, `remove`, `pruning`, `lyrics`, `loop` y `shuffle`.
+* 🎶 **Música**: `play`, `nowplaying`, `playlist`, `queue`, `pause`, `resume`, `skip`, `stop`, `remove` y `lyrics`.
 
 * 👾 **Sistema de Xp:** `rank` (pronto más comandos)...
 
@@ -46,3 +46,4 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 * [Discord](https://discord.gg/m3vY2tDC7V)
 * [GitHub](https://github.com/zLuisOne/Quesito)
 * [Twitch Owner](https://www.twitch.tv/zluisone)
+* [Top.GG](https://top.gg/bot/717761856051085344)

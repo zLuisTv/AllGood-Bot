@@ -39,6 +39,8 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * 💸 **Sistema de Economía:** `bal`, `work`, `daily` (pronto más comandos)...
 
+* 🎮 **Sistema de MiniJuegos:** `g-chess`,`g-connect4`,`g-hangmang` y `g-snakegame`.
+
 ---
 
 ## Enlaces

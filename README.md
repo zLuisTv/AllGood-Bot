@@ -50,7 +50,7 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * [Discord](https://discord.gg/m3vY2tDC7V)
 * [GitHub](https://github.com/zLuisOne/Quesito)
-* [Twitch Owner](https://www.twitch.tv/zluisone
+* [Twitch Owner](https://www.twitch.tv/zluisone)
 * [Top.GG](https://top.gg/bot/717761856051085344)
 
 # [Invite](https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot)

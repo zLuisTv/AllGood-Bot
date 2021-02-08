@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://i.imgur.com/xTBB0jV.png">
+  <img width="256" height="256" src="https://i.imgur.com/d7OnEjI.png">
 </p>
   
 <h3 align="center">Quesito Bot</h3>
@@ -25,9 +25,11 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * 💼 **Moderación**: `prefix`, `ban`, `unban`, `kick`, `mute` , `unmute`, `purge`, `setnickname`, `slowmode`, `addrole` y `takerole`.
 
+* 🔒 **Seguridad**: `anti-link`, `lock`, `unlock`
+
 * ⚙ **Utilidad**: `userinfo`, `serverinfo`, `roleinfo`, `servericon`, `encuesta`. `sugerencia`, `clima`, `covid`, `ping`, `miembros`, `soporte`, `bug`, `botsuggest` y `vote`.
 
-* ✨ **Diversión**: `anime`, `howgay`, `say`, `8ball`, `ascii`, `meme`, `wikipedia`, `hack`, `ytsearch` y `instagram`.
+* ✨ **Diversión**: `anime`, `howgay`, `say`, `8ball`, `ascii`, `meme`, `wikipedia`, `hack`, `ytsearch`, `instagram` y `github`.
 
 * 🖼 **Imagenes**: `avatar` ,`bird`, `cat`, `dog`, `fox` , `waifu`, `meme` y `skin-mc` 
 
@@ -35,11 +37,12 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * 🎶 **Música**: `play`, `nowplaying`, `playlist`, `queue`, `pause`, `resume`, `skip`, `stop`, `remove` y `lyrics`.
 
-* 👾 **Sistema de Xp:** `rank` (pronto más comandos)...
+* 🎮 **MiniJuegos:** `g-chess`,`g-connect4`,`g-hangmang` y `g-snakegame`.
 
-* 💸 **Sistema de Economía:** `bal`, `work`, `daily` (pronto más comandos)...
+* 👾 **Sistema de Xp:** `rank`, `profile` (pronto más comandos)...
 
-* 🎮 **Sistema de MiniJuegos:** `g-chess`,`g-connect4`,`g-hangmang` y `g-snakegame`.
+* 💸 **Sistema de Economía:** `bal`, `work`, `daily`, `gamble`, `deposit`, `transferir` y `withdraw`,
+
 
 ---
 
@@ -47,6 +50,7 @@ Quesito es un bot de discord codificado en JavaScript con Discord.js.
 
 * [Discord](https://discord.gg/m3vY2tDC7V)
 * [GitHub](https://github.com/zLuisOne/Quesito)
-* [Twitch Owner](https://www.twitch.tv/zluisone)
+* [Twitch Owner](https://www.twitch.tv/zluisone
 * [Top.GG](https://top.gg/bot/717761856051085344)
-* [Invite](https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot)
+
+# [Invite](https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot)

@@ -48,4 +48,4 @@ Categorías:
 * [Top.GG](https://top.gg/bot/717761856051085344)
 
 # Invitación
-## [Invite](https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot)
+## https://discord.com/oauth2/authorize?client_id=717761856051085344&permissions=4730011918&scope=bot

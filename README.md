@@ -27,7 +27,7 @@ Categorías:
 
 🔐Moderación | announcement, ban, checkinvites, clear-sanctions, etc.
 
-📀Música | Disable
+📀Música | loop, lyrics, move, np, pause, play, playlist, etc.
 
 🔦General | calc, github, help, invitations, etc.
 

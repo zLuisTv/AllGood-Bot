@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="256" height="256" src="https://i.imgur.com/HjmXCsU.png">
+  <img width="256" height="256" src="https://imgur.com/GEhC6eH">
 </p>
   
-<h3 align="center">AllGoodt</h3>
+<h3 align="center">AllGood</h3>
 
 
 ---

@@ -2,7 +2,7 @@
   <img width="256" height="256" src="https://i.imgur.com/HjmXCsU.png">
 </p>
   
-<h3 align="center">Quesito Bot</h3>
+<h3 align="center">AllGoodt</h3>
 
 
 ---
@@ -14,29 +14,44 @@
 ---
 # Info
 
-Hola soy Quesito un bot variado con diferentes categorías e idiomas, tengo gran variedad de comandos, configura, divierte y dale encanto a tu servidor que esperas.
+AllGood es un bot de Discord con diferentes habilidades y utilidades que tienen como objetivo mejorar la calidad de tu servidor.
 ¡No dudes en agregar una estrella ⭐ al repositorio para promover el proyecto!
 
-## Prefix: q! ( Customizable )
+## Prefix: / (Customizable)
 
 > Un bot multipropósito para facilitar y divertir el uso de Discord
 
 Categorías:
 
-🖥Administración | addcommand, addemoji, automod, backup, etc.
+✨ Fun | 8ball, ascii, choice, lovecalc, flip, etc.
 
-🔐Moderación | announcement, ban, checkinvites, clear-sanctions, etc.
+🎉 Giveaway |
 
-📀Música | loop, lyrics, move, np, pause, play, playlist, etc.
+💻 Social |
 
-🔦General | calc, github, help, invitations, etc.
+🔩 Host |
 
-📊Economía | achievements, birthdate, work, marry, leaderboard, etc.
+🪁 Images | avatar, catcha, clyde, facepalm, tobecontinued, etc.
 
-🪁Imágenes | avatar, catcha, clyde, facepalm, tobecontinued, etc.
+🧪 Leveling | ...
 
-✨Diversión | 8ball, ascii, choice, lovecalc, flip, etc.
+💾 Loogging | ...
 
+🎪 Misc | ...
+
+🔐 Moderation | announcement, ban, checkinvites, clear-sanctions, etc.
+
+📀 Music | loop, lyrics, move, np, pause, play, playlist, etc.
+
+🚫 NSFW | ...
+
+🔗 Settings | ...
+
+🛒 Searcher | ...
+
+🎫 Tag | ...
+
+🔖 Ticket  ...
 
 ---
 

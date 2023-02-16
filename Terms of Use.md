@@ -1,15 +1,23 @@
-# *******Términos y Condiciones*******
+# *******Términos de Uso*******
 
 > Fecha: Febero 15, 2023
 
-Bienvenidos, AllGood es un servicio(Bot) proporcionado por AllBot Team. 
-Siga leyendo para conocer las reglas y restricciones que rigen el Servicio de AllGood.
-Si tiene alguna pregunta, inquietud o comentario con respecto a estos términos o los Servicios, comuníquese con nosotros al siguiente correo: luisone06@gmail.com
-Estos Términos de uso son un contrato entre usted y AllBot Team. Su uso de los Servicios de cualquier manera significa que acepta todos estos Términos. Y estos Términos permanecerán en vigor mientras utilice los Servicios. Estos Términos incluyen las disposiciones de este documento, así como las de la Política de privacidad y la Política de disputas de derechos de autor. Su uso o participación en ciertos Servicios también puede estar sujeto a políticas, reglas y/o condiciones adicionales, que se incorporan aquí por referencia, y usted entiende y acepta que al usar o participar en cualquiera de dichos Servicios, también acepta cumplir con estos Términos Adicionales.
+Bienvenido. Al utilizar a AllGood(Bot), usted acepta cumplir con los siguientes términos de uso.
 
-Por favor, lea estos Términos detenidamente. Cubren información importante sobre los Servicios que se le brindan. Estos Términos incluyen información sobre cambios futuros a estos Términos, renovaciones automáticas, limitaciones de responsabilidad, una renuncia a demanda colectiva y resolución de disputas mediante arbitraje en lugar de un tribunal.
-***TENGA EN CUENTA QUE SU USO Y ACCESO A NUESTROS SERVICIOS ESTÁN SUJETOS A LOS SIGUIENTES TÉRMINOS; SI NO ACEPTA TODO LO SIGUIENTE, NO PUEDE UTILIZAR NI ACCEDER A LOS SERVICIOS DE NINGUNA MANERA.***
+1. AllGood es propiedad de AllBot Team. El bot se proporciona "tal cual" y no se hace responsable de ningún daño que pueda resultar del uso del bot.
 
-**AVISO DE ARBITRAJE Y RENUNCIA A DEMANDA COLECTIVA: EXCEPTO PARA CIERTOS TIPOS DE DISPUTAS DESCRITAS EN LA SECCIÓN DEL ACUERDO DE ARBITRAJE A CONTINUACIÓN, USTED ACEPTA QUE LAS DISPUTAS ENTRE USTED Y NOSOTROS SE RESOLVERÁN MEDIANTE ARBITRAJE INDIVIDUAL VINCULANTE Y RENUNCIA A SU DERECHO A PARTICIPAR EN UNA DEMANDA COLECTIVA O ARBITRAJE COLECTIVO.**
+2. AllGood puede ser utilizado solo para fines legales. No se permite el uso del bot para fines ilegales, incluyendo, pero no limitado a, actividades que infrinjan derechos de autor, difamen a otros usuarios o que violen las leyes de su país.
 
-Continuará...
+3. Usted es responsable de cualquier contenido que publique o use a través de AllGood. No se permite el uso del bot para publicar contenido ofensivo, amenazante, difamatorio o ilegal.
+
+4. Nos reservamos el derecho de eliminar o suspender su acceso a AllGood en cualquier momento y por cualquier motivo sin previo aviso.
+
+5. Nos reservamos el derecho de modificar estos términos de uso en cualquier momento y sin previo aviso.
+
+6. AllGood puede recopilar información de usuario, incluyendo, pero no limitado a, nombres de usuario, identificadores de Discord y otros datos relacionados con el uso del bot. Al utilizar a AllGood, usted acepta la recopilación y uso de su información según lo descrito en nuestra Política de Privacidad.
+
+7. Usted reconoce y acepta que el Bot de Discord puede incluir enlaces a otros sitios web o servicios en línea que no son propiedad ni están controlados por AllBot Team. No somos responsables del contenido o la seguridad de estos sitios web o servicios en línea.
+
+8. El uso de AllGood está sujeto a la ley y a la jurisdicción de Perú. Si alguna disposición de estos términos de uso es considerada inválida o inaplicable, dicha disposición será eliminada y las disposiciones restantes se mantendrán en plena vigencia y efecto.
+
+Gracias por usar a nuestro AllGood. Si tiene alguna pregunta o inquietud sobre estos términos de uso, no dude en ponerse en contacto con nosotros a través de nuestro correo electrónico: [Luisone06@gmail.com](https://github.com/zLuisTv/AllGood-Bot/blob/main/Terms%20of%20Use.md)
